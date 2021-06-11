@@ -1,0 +1,15 @@
+name: salsa-dicom
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - jupyterlab=2.2.9
+  - pydicom
+  - ipykernel
+  - ipywidgets=7.5.1
+  - panel
+  - pandas
+  - nodejs
+  - matplotlib
+  - scikit-image
+  - pyvista
