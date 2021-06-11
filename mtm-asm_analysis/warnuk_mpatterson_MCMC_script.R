@@ -1,11 +1,10 @@
-#!/usr/bin/env Rscript
 ############################################################################
 ########### MCMC simulations on grayscale data for SALSA Project ###########
 ############################################################################
 
 # Monte Carlo Simulations of sub-glacial lakes sedimentation rates
 # by: Molly Patterson and Will Arnuk
-# last updated: 6/10/2021
+# last updated: 6/11/2021
 
 # Description: This script performs a series of Monte Carlo simulations on
 # core image data. The goal of this analysis is to simulate variability in
