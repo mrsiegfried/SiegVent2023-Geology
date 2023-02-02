@@ -1,9 +1,6 @@
 # SiegVent2023-Geology 
 Repo for processing data and generating figures from Siegfried\*, Venturelli\*, et al. (2023). The life and death of a subglacial lake in West Antarctica, *Geology*. 
 
-\[put a short description here\]
-
-
 Running the notebook: 
 
 1. Set up the environment: `conda env create -f environment.yml --name siegvent2023`
