@@ -1,4 +1,4 @@
-# SiegVent2023-Geology
+# SiegVent2023-Geology 
 Repo for processing data and generating figures from Siegfried\*, Venturelli\*, et al. (2023). The life and death of a subglacial lake in West Antarctica, *Geology*. 
 
 \[put a short description here\]
@@ -19,3 +19,4 @@ Some notes:
 2. The CT dicom files of the two sediment cores used in this manuscript are included in the data archive as the cores are still in moratorium on on the Oregon State University Marine and Geology Repository. When that is released, we will update this file with a DOI.
 3. The calculations for lake sediment thickness are in `plot_siegvent2023_fig2.ipynb`.
 4. The calcuations for the optimal sedimentation rates and uncertainty around each rate through a multi-Gaussian fit as well as the actual estimation for the age of Mercer Subglacial Lake are in `plot_siegvent2023_fig3.ipynb`. This file also prints out the information in Table S1.
+5. We're happy for you to leave issues on GitHub or email us if you have any questions.
