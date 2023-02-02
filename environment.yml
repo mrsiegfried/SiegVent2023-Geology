@@ -1,4 +1,4 @@
-name: salsa-dicom
+name: siegvent2023
 channels:
   - conda-forge
 dependencies:
