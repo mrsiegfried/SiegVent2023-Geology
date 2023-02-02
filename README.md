@@ -17,4 +17,5 @@ Some notes:
 
 1. The calculation for the scaling ratio between GPS sites on SLM as well as that for scaled height change between low stand and high stand at the drill site is in `figures/plot_siegvent2023_fig1.ipynb` just before the figure is plotted
 2. The CT dicom files of the two sediment cores used in this manuscript are included in the data archive as the cores are still in moratorium on on the Oregon State University Marine and Geology Repository. When that is released, we will update this file with a DOI.
-3. The calculate 
+3. The calculations for lake sediment thickness are in `plot_siegvent2023_fig2.ipynb`.
+4. The calcuations for the optimal sedimentation rates and uncertainty around each rate through a multi-Gaussian fit as well as the actual estimation for the age of Mercer Subglacial Lake are in `plot_siegvent2023_fig3.ipynb`. This file also prints out the information in Table S1.
