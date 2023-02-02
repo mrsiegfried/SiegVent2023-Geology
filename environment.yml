@@ -12,4 +12,10 @@ dependencies:
   - nodejs=15.14.0
   - matplotlib=3.4.2
   - scikit-image=0.18.1
-  - pyvista=0.31.0
+  - pygmt=0.4.1
+  - geopandas=0.9.0
+  - pyproj=3.3.1
+  - h5py=3.3.0
+  - cmocean=2.0
+  - rpy2=3.5.1
+  - seaborn=0.11.2
