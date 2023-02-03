@@ -1,5 +1,14 @@
 # SiegVent2023-Geology 
-Repo for processing data and generating figures from Siegfried\*, Venturelli\*, et al. (2023). The life and death of a subglacial lake in West Antarctica, *Geology*. 
+Repo for processing data and generating figures from Siegfried\*, Venturelli\*, et al. (2023). The life and death of a subglacial lake in West Antarctica, *Geology*, doi: 10.1130/G50995.1.
+
+Data associated with this repository is [available on Zenodo](https://www.doi.org/10.5281/zenodo.7597019).
+
+If you use code from this repository, please cite your use as:
+[insert citation when available].
+
+If you use data associated with this repository, please cite your use as:
+[insert citation when available].
+
 
 Running the notebook: 
 
