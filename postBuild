@@ -1,1 +1,4 @@
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
+pip install zenodo_get
+zenodo_get 10.5281/zenodo.7597019 
+unzip data.zip
