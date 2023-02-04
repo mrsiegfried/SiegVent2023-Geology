@@ -17,7 +17,10 @@ Running the notebook:
 3. Add the environment to Jupyter as a kernel: `python -m ipykernel install --user --name siegvent2023`
 4. Make interactive ipywidgets work by enabling the extension: `jupyter labextension install @jupyter-widgets/jupyterlab-manager`
 5. Fire up JupyterLab: `jupyter lab`
-6. Open the notebook from the file browser on the left side and hit play on the cells to your heart's content.
+6. Install `zenodo_get` to download the data repository by running the following in a command line: `pip install zenodo_get`
+7. Download the data repository in a command line: `zenodo_get 10.5281/zenodo.7597019` 
+8. Unarchive the data into the current directory in a command line: `unzip data.zip`
+9. Open the notebook from the file browser on the left side and hit play on the cells to your heart's content.
 
 Some notes:
 
