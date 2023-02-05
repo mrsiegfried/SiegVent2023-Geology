@@ -1,9 +1,9 @@
 # SiegVent2023-Geology 
-Repo for processing data and generating figures from Siegfried\*, Venturelli\*, et al. (2023). The life and death of a subglacial lake in West Antarctica, *Geology*, doi: 10.1130/G50995.1. Code for generating every figure in the manuscript, including the `.afdeisgn` file (made with Affinity Designer, an Adobe Illustrator alternative) for making adjustments 
+Code repository for processing data and generating figures from Siegfried\*, Venturelli\*, et al., 2023, _Geology_ (doi: [10.1130/G50995.1](https://doi.org/10.1130/G50995.1)). Code for generating figures in the manuscript, including the `.afdeisgn` file (made with [Affinity Designer](https://affinity.serif.com/en-us/designer/), an Adobe Illustrator alternative) for making adjustments to Figure 4 in future use. See [referencing section](#referencing) for appropriate citations.
 
-Data associated with this repository is [available on Zenodo](https://www.doi.org/10.5281/zenodo.7597019).
+Data associated with this repository is [available on Zenodo](https://www.doi.org/10.5281/zenodo.7597019). See [running the notebooks](#running-the-notebooks) for instructions to programmatically download the dataset that will allow the code to run.
 
-# Running the notebook: 
+## Running the notebooks: 
 
 1. Set up the environment: `conda env create -f environment.yml --name siegvent2023`
 2. Activate the kernel: `conda activate siegvent2023`
@@ -15,15 +15,15 @@ Data associated with this repository is [available on Zenodo](https://www.doi.or
 8. Unarchive the data into the current directory in a command line: `unzip data.zip`
 9. Open the notebook from the file browser on the left side and hit play on the cells to your heart's content.
 
-# Some notes:
+## Some notes:
 
 1. The calculation for the scaling ratio between GPS sites on SLM as well as that for scaled height change between low stand and high stand at the drill site is in `figures/plot_siegvent2023_fig1.ipynb` just before the figure is plotted
 2. The CT dicom files of the two sediment cores used in this manuscript are included in the data archive as the cores are still in moratorium on on the Oregon State University Marine and Geology Repository. When that is released, we will update this file with a DOI.
 3. The calculations for lake sediment thickness are in `plot_siegvent2023_fig2.ipynb`.
-4. The calcuations for the optimal sedimentation rates and uncertainty around each rate through a multi-Gaussian fit as well as the actual estimation for the age of Mercer Subglacial Lake are in `plot_siegvent2023_fig3.ipynb`. This file also prints out the information in Table S1.
+4. The calcuations for the likely sedimentation rates and uncertainty around each rate through a multi-Gaussian fit as well as the actual estimation for the age of Mercer Subglacial Lake are in `plot_siegvent2023_fig3_figS2.ipynb`. This file also prints out the information in Table S1.
 5. We're happy for you to leave issues on GitHub or email us if you have any questions
 
-# Referencing
+## Referencing
 
 If you use code from this repository, please cite both the publication in _Geology_ and the code:
 
