@@ -5,7 +5,7 @@ Data associated with this repository is [available on Zenodo](https://www.doi.or
 
 If you use code from this repository, please cite your use as:
 
-Matthew R. Siegfried, Will Arnuk, Ryan A. Venturelli, & Molly Patterson. (2023). mrsiegfried/SiegVent2023-Geology: v1.0 (initial publication) (v1.0). Zenodo. https://doi.org/10.5281/zenodo.7605994.
+Matthew R. Siegfried, Will Arnuk, Ryan A. Venturelli, & Molly Patterson. (2023). mrsiegfried/SiegVent2023-Geology (v1.1). Zenodo. https://doi.org/10.5281/zenodo.7605994.
 
 If you use data associated with this repository, please cite your use as:
 
