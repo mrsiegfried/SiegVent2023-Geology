@@ -4,9 +4,11 @@ Repo for processing data and generating figures from Siegfried\*, Venturelli\*, 
 Data associated with this repository is [available on Zenodo](https://www.doi.org/10.5281/zenodo.7597019).
 
 If you use code from this repository, please cite your use as:
+
 Matthew R. Siegfried, Will Arnuk, Ryan A. Venturelli, & Molly Patterson. (2023). mrsiegfried/SiegVent2023-Geology: v1.0 (initial publication) (v1.0). Zenodo. https://doi.org/10.5281/zenodo.7605994.
 
 If you use data associated with this repository, please cite your use as:
+
 Siegfried, Matthew R., Venturelli, Ryan A., Patterson, Molly O., Arnuk, William, Campbell, Timothy D., Gustafson, Chloe D., Michaud, Alexander B., Galton-Fenzi, Benjamin K., Hausner, Mark B., Holzschuh, Stephanie N., Huber, Bruce, Mankoff, Kenneth D., Schroeder, Dustin M., Summers, Paul, Tyler, Scott, Carter, Sasha P., Fricker, Helen A., Harwood, David M., Leventer, Amy, … SALSA Science Team. (2023). Data for Siegfried*, Venturelli*, et al., 2023, Geology [Data set]. In Geology (1.0). Zenodo. https://doi.org/10.5281/zenodo.7597019.
 
 
